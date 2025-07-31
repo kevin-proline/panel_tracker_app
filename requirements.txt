@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 streamlit
 pandas
+=======
+streamlit
+pandas
+>>>>>>> 124076d (Initial commit)
